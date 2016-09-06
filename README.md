@@ -246,9 +246,9 @@ San Francisco, California **USA**
 
 ##South America
 
-[**Frontinsampa 2015**](http://www.frontinsampa.com.br/)  
-21 November, 2015  
-São Paulo, **Brazil**
+[**JSConf Colombia 2016**](http://jsconf.co/)  
+7 & 8 October, 2016  
+Medellin, **Colombia**
 
 
 ##Online
